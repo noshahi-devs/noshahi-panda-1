@@ -211,7 +211,7 @@ export class HomeComponent {
         { name: 'Rawalpindi', image: 'https://images.unsplash.com/photo-1720507334744-02dce2b6794d?auto=format&fit=crop&w=500' },
         { name: 'Multan', image: 'https://images.unsplash.com/photo-1598461814968-639d9321f483?auto=format&fit=crop&w=500' },
         { name: 'Hyderabad', image: 'https://images.unsplash.com/photo-1587966606400-22bd02e9b907?auto=format&fit=crop&w=500' },
-        { name: 'Peshawar', image: 'https://images.unsplash.com/photo-1679809470940-d7d0cea474b0?auto=format&fit=crop&w=500' },
+        { name: 'Peshawar', image: 'https://images.unsplash.com/photo-1679861445408-7fe086b45fe9?auto=format&fit=crop&w=500' },
         { name: 'Quetta', image: 'https://images.unsplash.com/photo-1646606161337-d644f966e672?auto=format&fit=crop&w=500' }
     ];
 
